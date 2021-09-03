@@ -1,0 +1,14 @@
+.shift {
+  text-align: center;
+  margin-top: 25rem;
+}
+.value {
+  width: 100%;
+  text-align: center;
+  
+}
+.shift2 {
+  border-color: black;
+  /*border-radius: 1rem;*/
+  font-size: 5rem;
+}
